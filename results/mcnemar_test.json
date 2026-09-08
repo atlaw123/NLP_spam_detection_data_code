@@ -1,0 +1,18 @@
+{
+  "compared": [
+    "Linear SVM",
+    "DistilBERT (10 epochs, lr=2e-5)"
+  ],
+  "contingency_table": [
+    [
+      531,
+      2
+    ],
+    [
+      7,
+      5
+    ]
+  ],
+  "statistic": 2.0,
+  "p_value": 0.1796875
+}

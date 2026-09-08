@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Legitimate,0.9899,0.9885,0.9892,694.0
+Spam,0.9646,0.9689,0.9667,225.0
+accuracy,0.9837,0.9837,0.9837,0.9837
+macro avg,0.9773,0.9787,0.978,919.0
+weighted avg,0.9837,0.9837,0.9837,919.0
